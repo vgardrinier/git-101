@@ -1,0 +1,14 @@
+h1 {
+	font-family: Helvetica;
+
+}
+
+img {
+	width: 100px
+
+}
+
+body {
+	display: flex;
+	align-items: center;
+}
